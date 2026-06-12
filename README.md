@@ -1,4 +1,5 @@
 # João Gabriel
+*Read in: [🇧🇷 Português](README.pt.md)*
 **Software Developer | Data & Automation**
 
 I build pragmatic software to solve real-world business bottlenecks. 
