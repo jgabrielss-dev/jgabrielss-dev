@@ -5,7 +5,7 @@ I build pragmatic software to solve real-world business bottlenecks.
 
 Currently, I manage the technical infrastructure and daily operations at a retail business, where I replace manual administrative friction with automated ETL pipelines, cloud scrapers, and headless B2B storefronts. I don't just write code—I engineer solutions that reduce overhead and increase throughput.
 
-📫 **Open to Work:** Seeking a Junior Developer role. **Fully available for relocation for on-site (presencial) opportunities anywhere in Brazil.**
+📫 **Open to Work:** Seeking a Junior Developer role. **Fully available for relocation for opportunities anywhere.**
 
 ---
 
