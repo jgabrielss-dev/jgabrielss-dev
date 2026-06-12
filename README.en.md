@@ -31,4 +31,4 @@ Currently, I manage the technical infrastructure and daily operations at a retai
 
 ---
 **Education:** Systems Analysis and Development (ADS) - 2nd Period  
-**Contact:** [Your LinkedIn URL] | [Your Email]
+**Contact:** linkedin.com/in/jgabrielssdev | jgabrielss-dev@protonmail.com
