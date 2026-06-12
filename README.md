@@ -1,5 +1,5 @@
 # João Gabriel
-*Read in: [🇺🇸 English](README.md)*
+*Read in: [🇺🇸 English](README.en.md)*
 
 **Desenvolvedor de Software | Dados & Automação**
 
