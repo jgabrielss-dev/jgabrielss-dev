@@ -32,4 +32,4 @@ Atualmente, gerencio a infraestrutura técnica e as operações diárias de um c
 
 ---
 **Formação:** Análise e Desenvolvimento de Sistemas (ADS) - 2º Período  
-**Contato:** [Seu URL do LinkedIn] | [Seu E-mail]
+**Contato:** linkedin.com/in/jgabrielssdev | jgabrielss-dev@protonmail.com
