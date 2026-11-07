@@ -1,34 +1,65 @@
-# João Gabriel
-*Read in: [🇧🇷 Português](README.md)*
-**Software Developer | Data & Automation**
+# João Gabriel de Souza Santos
 
-I build pragmatic software to solve real-world business bottlenecks. 
+**Systems Analysis and Development Student | Python, Data & Automation**
 
-Currently, I manage the technical infrastructure and daily operations at a retail business, where I replace manual administrative friction with automated ETL pipelines, cloud scrapers, and headless B2B storefronts. I don't just write code—I engineer solutions that reduce overhead and increase throughput.
+Maceió, Brazil · [jgabrielss-dev@protonmail.com](mailto:jgabrielss-dev@protonmail.com)
 
-📫 **Open to Work:** Seeking a Junior Developer role. **Fully available for relocation for opportunities anywhere.**
+Systems Analysis and Development student (3rd term, UNINASSAU), with professional experience in retail ERP operations and hands-on development of data-processing and automation tools.
 
----
+At Agrosantos, I actively participated in the migration from Sysempresa to Siagri and independently developed Python and Pandas scripts to process and transform product data. My work also includes identifying inconsistencies in inventory, product records, and fiscal information.
 
-### 🛠️ Tech Stack & Arsenal
-- **Backend & Data:** Python, Pandas, FastAPI, S3-compatible Storage
-- **Frontend:** TypeScript, Next.js (App Router), Tailwind CSS, Zustand
-- **Database & Auth:** PostgreSQL, Supabase (RLS, PL/pgSQL Triggers, RPCs)
-- **Architecture:** Serverless Deployments, Multi-Tenant B2B (SaaS) structures, API Integrations
+I maintain personal projects to explore web development, document processing, and automation. They are presented as portfolio projects; I do not claim commercial deployment or unmeasured operational results.
+
+**Professional interests:** ERP support and implementation, Python automation, data processing, and junior software development. Open to suitable opportunities in Brazil and international opportunities.
 
 ---
 
-### 💻 Featured Engineering Projects
+## Skills
 
-* ⚙️ **[Agrosantos Data Pipeline & ETL](#)**
-  A cloud-hosted Python/Streamlit engine that ingests raw ERP spreadsheets, sanitizes inventory via database-stored Regex rules, and runs autonomous visual web-crawlers to fetch missing product media.
+**Hands-on experience**
+- Python and Pandas
+- SQL and MySQL
+- Git
+- Excel
+- Linux and Bash
+- JavaScript
+- HTML and CSS
 
-* 🏪 **[Agrosantos Catalog v2](#)**
-  A hybrid full-stack Next.js web application featuring zero-API server rendering, global state cart management, and a secure admin dashboard using Server Actions to bypass client-side RLS for manual database auditing.
-
-* 📄 **[Financial Document Extraction API](#)**
-  A stateless Python microservice utilizing geometric text-mapping (`pdfplumber`) and advanced Regex to extract, deduplicate, and structure Febraban billing data from native PDFs into JSON payloads.
+**Additional knowledge**
+- TypeScript / TSX
+- Node.js
+- Power BI
+- Computer networks
 
 ---
-**Education:** Systems Analysis and Development (ADS) - 2nd Period  
-**Contact:** linkedin.com/in/jgabrielssdev | jgabrielss-dev@protonmail.com
+
+## Featured projects
+
+### [Agrosantos — Static Catalog and Automation](https://github.com/jgabrielss-dev/AGROSANTOS)
+A digital catalog prototype built with HTML, CSS, and JavaScript. Includes Python scripts to process Excel spreadsheets into JSON, search for missing product images, and a Bash script that orchestrates the workflow, allows image review, and prepares deployment.
+
+### [Agrosantos Data Pipeline](https://github.com/jgabrielss-dev/agrosantos-data-pipeline)
+An evolution of the product-processing workflow, with a remote management interface. The project explores Python, Pandas, Streamlit, data processing, image collection, and integration with cloud database and storage services.
+
+### [Agrosantos Catalog Web](https://github.com/jgabrielss-dev/agrosantos-catalog-web)
+A more complete version of the catalog, with remote management and product administration features. A portfolio project focused on web development and data-service integration.
+
+### [RegexEngineForBills](https://github.com/jgabrielss-dev/regexengineforbills)
+A Python application that extracts barcode numbers, due dates, and amounts from text-based PDF bank slips. Uses regular expressions and prevents duplicate records. Scanned image-only PDFs are outside its current scope.
+
+### [Synthesis](https://github.com/jgabrielss-dev/synthesis)
+A landing page created while exploring a business idea.
+
+---
+
+## Education
+
+**Systems Analysis and Development — UNINASSAU**  
+Online · 3rd term · In progress
+
+---
+
+## Languages
+
+- **Portuguese:** Native
+- **English:** Advanced reading, listening, and written communication; spoken fluency in development
